@@ -1,6 +1,6 @@
-Hi,👋  I’m  paul
-A passionate web development living in Nigeria.
-web designer and developer. Experience for web dev fuel my passion for crafting inclusive solutions with modern tools, i love sharing my knowledge to empower others and build a more inclusive tech future
+<h1> Hi,👋  I’m  paul</h1>
+<p>A passionate web development living in Nigeria.
+web designer and developer. Experience for web dev fuel my passion for crafting inclusive solutions with modern tools, i love sharing my knowledge to empower others and build a more inclusive tech future</p>
 
 
 <!---
