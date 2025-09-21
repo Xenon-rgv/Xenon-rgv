@@ -11,7 +11,7 @@ web designer and developer. Experience for web dev fuel my passion for crafting 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My portfolio](http://portfolio.com)
 * ✉️  You can contact me at [paulukrakpo@gmail.com](mailto:paulukrakpo@gmail.com)
-* 🧠  I'm learning ReAct
+* 🧠  Currently learning Tailwind css
 * 🤝  I'm open to collaborating on intresting projects
 
 ### Skills
